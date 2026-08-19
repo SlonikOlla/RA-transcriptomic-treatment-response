@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "RA transcriptomic therapeutic-response framework"
+type: software
+authors:
+  - family-names: Kovalchuk
+    given-names: Igor
+repository-code: "https://github.com/USERNAME/RA-transcriptomic-response"
+version: 1.0.0
+date-released: 2026-08-19

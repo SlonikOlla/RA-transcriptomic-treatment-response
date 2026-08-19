@@ -1,0 +1,9 @@
+outcome,model,features,mean_AUC,sd_AUC,p2.5,p97.5,mean_MAE,sd_MAE,mean_fold_R2
+binary_R_vs_NR,clinical_core,baseline_DAS28;drug;pathotype,0.6332968750000001,0.18757865472644902,0.2666666666666667,1.0,,,
+binary_R_vs_NR,OXPHOS_only,OXPHOS,0.9096458333333334,0.1052824223451432,0.6666666666666667,1.0,,,
+binary_R_vs_NR,combined_core,OXPHOS;baseline_DAS28;drug;pathotype,0.8743437500000002,0.12794840090548545,0.6000000000000001,1.0,,,
+binary_R_vs_NR,combined_full,OXPHOS;baseline_DAS28;age;sex;drug;pathotype,0.8571666666666666,0.13589988144872597,0.5990625,1.0,,,
+continuous_DAS28_improvement,clinical_core,baseline_DAS28;drug;pathotype,,,,,1.201210181224407,0.22496784833829475,-0.33072762732431377
+continuous_DAS28_improvement,OXPHOS_only,OXPHOS,,,,,1.0132409772231556,0.18403261140455188,0.04553339067999595
+continuous_DAS28_improvement,combined_core,OXPHOS;baseline_DAS28;drug;pathotype,,,,,0.9863265432928896,0.17747258474020255,0.0800848486059178
+continuous_DAS28_improvement,combined_full,OXPHOS;baseline_DAS28;age;sex;drug;pathotype,,,,,1.0238525248012582,0.20054342350801632,-0.017004959835167255
