@@ -1,10 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated manuscript."
+message: "If you use this repository, please cite the associated manuscript and archived software release."
 title: "RA transcriptomic therapeutic-response framework"
 type: software
 authors:
   - family-names: Kovalchuk
     given-names: Igor
 repository-code: "https://github.com/SlonikOlla/RA-transcriptomic-treatment-response"
+doi: "10.5281/zenodo.22019057"
 version: 1.0.0
 date-released: 2026-08-19
