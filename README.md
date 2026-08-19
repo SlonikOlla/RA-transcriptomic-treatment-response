@@ -4,6 +4,12 @@ Reproducibility package for the manuscript:
 
 **Therapeutic-response transcriptomes in rheumatoid arthritis depend on treatment and tissue context**
 
+## Archived release
+
+Version 1.0.0 is permanently archived on Zenodo.
+
+**DOI:** 10.5281/zenodo.22019057
+
 ## Overview
 
 This repository supports a cross-cohort re-analysis of publicly available rheumatoid arthritis (RA) transcriptomic datasets spanning abatacept, TNF inhibitors, methotrexate and tocilizumab. The analysis separates:
