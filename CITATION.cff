@@ -5,6 +5,6 @@ type: software
 authors:
   - family-names: Kovalchuk
     given-names: Igor
-repository-code: "https://github.com/USERNAME/RA-transcriptomic-response"
+repository-code: "https://github.com/SlonikOlla/RA-transcriptomic-treatment-response"
 version: 1.0.0
 date-released: 2026-08-19
